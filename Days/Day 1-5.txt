@@ -1,1 +1,2 @@
-Codewars that's what I chose for to continue with
+On Day_1, I went through some video tutorials did a few kata on Codewars.
+And did Day1 challenge regarding F-string and if-else on codechalleng.es @pytbites.
