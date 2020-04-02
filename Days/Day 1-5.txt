@@ -1,2 +1,8 @@
-On Day_1, I went through some video tutorials did a few kata on Codewars.
+On Day_1:
+
+I went through some video tutorials did a few kata on Codewars.
 And did Day1 challenge regarding F-string and if-else on codechalleng.es @pytbites.
+
+Day_2:
+There was this problem about colors on PyBites, in which the list of valid colors were given and using an infinite loop I had to take input from user. If the taken input was in the list, the color in lowercase would be printed and the infinite loop continues, if not it would display a message then continue with the infinite loop and when "quit" was entered "bye" was displayed and the infinite loop would break.
+It was fun doing this challenge.
